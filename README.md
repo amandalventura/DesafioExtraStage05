@@ -1,6 +1,6 @@
 # Desafio Extra Stage 05 RocketSeat
 ## Sobre o projeto:
-Neste desafio tivemos que criar um jogo chamado Biscoito da Sorte, no qual o usuário, a partir de um clique ou enter, abre o biscoito com a sua sorte do dia. O propósito desse desafio é criarmos uma página utilizando o que aprendemos sobre vários temas, entre eles:
+Neste desafio tivemos que criar um jogo chamado Biscoito da Sorte, no qual o usuário, a partir de um clique ou Enter, abre o biscoito com a sua sorte do dia. O propósito desse desafio é criarmos uma página utilizando o que aprendemos sobre vários temas, entre eles:
 - Estrutura de dados HTML
 - Animações com CSS
 - Funções no Javascript
